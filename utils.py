@@ -8,7 +8,7 @@ from sklearn.utils._testing import ignore_warnings
 import sys
 import time
 
-# data
+# DATA
 def load_CPU():
     mat = scipy.io.loadmat('cpu.mat')
     X = np.transpose(mat['Xtrain']).todense()               # 6554 x 21
