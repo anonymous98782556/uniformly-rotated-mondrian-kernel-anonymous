@@ -19,4 +19,4 @@ Version Information:
 * `scipy`: 1.14.1
 * `sklearn`: 1.5.2
 
-The CPU dataset `cpu.mat` can be download [here](https://www.dropbox.com/scl/fi/24vle5ltto8f55pwzb39f/cpu.mat?rlkey=13wt6fd55xupj7j5z6n739bq5&st=fkrqf7vk&dl=0).
+The CPU dataset `cpu.mat` can be download \[[here](https://www.dropbox.com/scl/fi/24vle5ltto8f55pwzb39f/cpu.mat?rlkey=13wt6fd55xupj7j5z6n739bq5&st=fkrqf7vk&dl=0)\].
